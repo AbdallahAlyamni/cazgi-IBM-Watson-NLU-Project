@@ -9,6 +9,10 @@ __pycache__/
 # C extensions
 *.so
 
+# nodejs modules
+node_modules/
+sentimentAnalyzeClient/yarn.lock
+
 # Distribution / packaging
 .Python
 build/
@@ -130,3 +134,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+sentimentAnalyzeClient/yarn.lock
+sentimentAnalyzeClient/yarn.lock
